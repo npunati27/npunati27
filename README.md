@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Nikhita!👋
+
+#I'm an undergraduate student at the University of Illinois, Urbana-Champaign, and I'm studying computer sciene!
+
+
+
 
 <!--
 **npunati27/npunati27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
