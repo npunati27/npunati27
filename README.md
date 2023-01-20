@@ -1,6 +1,6 @@
 ### Hi I'm Nikhita!👋
 
-I'm an undergraduate student at the University of Illinois, Urbana-Champaign, and I'm studying computer sciene!
+I'm an undergraduate student at the University of Illinois, Urbana-Champaign, and I'm studying computer science!
 
 
 
