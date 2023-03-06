@@ -1,6 +1,8 @@
 ### Hi I'm Nikhita!👋
 
-I'm an undergraduate student at the University of Illinois, Urbana-Champaign, and I'm studying computer science!
+I'm an undergraduate student at the University of Illinois, Urbana-Champaign, and I'm studying computer science.
+- I'm a SWE at Disruption Lab 
+- I'm a member of Team Tech at SWE
 
 
 
