@@ -7,6 +7,23 @@ I'm an undergraduate student at the University of Illinois, Urbana-Champaign, an
 
 I'm broadly interested in Machine Learning and it's applications to systems.
 
+Languages:
+
+
+- C++
+- Python
+- Go
+- Java
+- HTML/CSS
+- Javascript
+
+
+
+
+
+
+
+
 <!--
 **npunati27/npunati27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
