@@ -1,21 +1,20 @@
 ### Hi I'm Nikhita!👋
 
 I'm an undergraduate student at the University of Illinois, Urbana-Champaign, and I'm studying computer science.
-- I'm a SWE at Disruption Lab 
-- I'm a member of Team Tech at SWE
 
 
-I'm broadly interested in Machine Learning and it's applications to systems.
+I'm broadly interested in building reliable, scalable, and efficient systems.
 
 Languages:
 
 
 - C++
+- C
 - Python
 - Go
 - Java
 - HTML/CSS
-- Javascript
+- Javascript/Typescript
 
 
 
