@@ -7,13 +7,10 @@ I'm broadly interested in building reliable, scalable, and efficient systems.
 
 Languages:
 
-
-- C++
-- C
+- C++/C
 - Python
 - Go
 - Java
-- HTML/CSS
 - Javascript/Typescript
 
 
